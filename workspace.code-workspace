@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "demo",
+			"path": "..\\demo"
+		},
+		{
+			"name": "vscode_git",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
